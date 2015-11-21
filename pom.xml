@@ -6,8 +6,11 @@
   <artifactId>MockitoDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-
+  
   <name>MockitoDemo</name>
+  
+  <!-- Mockito Demo by Tim Brailsford (tim.brailsford@nottingham.edu.my) 2015 -->
+  
   <url>http://maven.apache.org</url>
 
   <properties>
