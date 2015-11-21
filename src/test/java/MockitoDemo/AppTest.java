@@ -45,7 +45,7 @@ public class AppTest {
 	}
 	
 	/**
-	 * Test SuT
+	 * Test SUT
 	 */
 	
 	// Greeting
